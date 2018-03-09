@@ -17,6 +17,8 @@
 	</head>
 	<body>
   		Number:
+		<p>Titulo </p>
+		<p>TTitulo 2 </p>
   		<input type="text" id="n1"><p>
   		<button onclick="square()">x<sup>2</sup></button>
 		<button onclick="inverse()"1/x</button>
